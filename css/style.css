@@ -220,8 +220,8 @@ footer{
                 ul{
                     display: flex;
                     justify-content: space-around;
-                    padding: 73px 0;
-                    background-color: beige;
+                    padding: 30 px 0;
+                    background-color: #d9d7d5;
                 }
                 .presentation {
                     /* padding: 0 100px; */
