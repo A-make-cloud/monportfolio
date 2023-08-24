@@ -264,8 +264,8 @@ footer{
                 ul{
                     display: flex;
                     justify-content: space-around;
-                    padding: 73px 0;
-                    background-color: beige;
+                    padding: 30px 0;
+                    background-color: #d9d7d5;
                 }
                 .presentation {
                     /* padding: 0 100px; */
@@ -289,8 +289,8 @@ footer{
     ul{
         display: flex;
         justify-content: space-around;
-        padding: 73px 0;
-        background-color: beige;
+        padding: 30px 0;
+        background-color: #d9d7d5;
     }
     /* li{
         font-size: 0.6em;
@@ -331,7 +331,7 @@ footer{
     ul{
         display: flex;
        
-        background-color: beige;
+        background-color: #d9d7d5;
     }
     li{
         margin-right: 5px;
@@ -371,8 +371,8 @@ footer{
     ul{
         display: flex;
         justify-content: space-around;
-        padding: 73px 300px;
-        background-color: beige;
+        padding: 30px 300px;
+        background-color: #d9d7d5;
     }
     .presentation {
         padding: 0 100px;
